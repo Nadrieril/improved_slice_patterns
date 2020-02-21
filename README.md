@@ -1,4 +1,4 @@
-# `improved_slice_patterns`
+# [`improved_slice_patterns`](https://docs.rs/improved_slice_patterns/)
 
 A tiny crate that provides two macros to help matching
 on `Vec`s and iterators using the syntax of [`slice_patterns`][slice_patterns]
