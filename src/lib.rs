@@ -1,4 +1,4 @@
-#![doc(html_root_url = "https://docs.rs/improved_slice_patterns/2.0.0")]
+#![doc(html_root_url = "https://docs.rs/improved_slice_patterns/2.0.1")]
 
 //! A tiny crate that provides two macros to help matching
 //! on `Vec`s and iterators using the syntax of
